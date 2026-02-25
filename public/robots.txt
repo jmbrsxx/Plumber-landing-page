@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jmbrsxx.github.io/Plumber-landing-page/sitemap.xml
